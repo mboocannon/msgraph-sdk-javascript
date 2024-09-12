@@ -11,8 +11,8 @@
 	],
 	"types": "./lib/src/index.d.ts",
 	"dependencies": {
-		"@babel/runtime": "^7.4.4",
-		"tslib": "^1.9.3"
+		"@babel/runtime": "^7.25.4",
+		"tslib": "^1.14.1"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.4.4",
